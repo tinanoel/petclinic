@@ -120,7 +120,7 @@ File -> Import -> Maven -> Existing Maven project
     <td><a href="/src/main/resources/spring/mvc-view-config.xml">mvc-view-config.xml</a></td>
   </tr>
   <tr>
-    <td>JSP custom tags</td>
+    <td>----------------JSP custom tags --------------</td>
     <td>
       <a href="/src/main/webapp/WEB-INF/tags">WEB-INF/tags</a>
       <a href="/src/main/webapp/WEB-INF/jsp/owners/createOrUpdateOwnerForm.jsp">createOrUpdateOwnerForm.jsp</a></td>
